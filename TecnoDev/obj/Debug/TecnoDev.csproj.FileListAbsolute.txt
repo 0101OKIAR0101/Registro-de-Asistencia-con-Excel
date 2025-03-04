@@ -1,0 +1,161 @@
+C:\Users\Pierr\source\repos\ProyectoTecnoDev\TecnoDev\bin\Debug\TecnoDev.exe.config
+C:\Users\Pierr\source\repos\ProyectoTecnoDev\TecnoDev\bin\Debug\TecnoDev.exe
+C:\Users\Pierr\source\repos\ProyectoTecnoDev\TecnoDev\bin\Debug\TecnoDev.pdb
+C:\Users\Pierr\source\repos\ProyectoTecnoDev\TecnoDev\bin\Debug\EntityFramework.dll
+C:\Users\Pierr\source\repos\ProyectoTecnoDev\TecnoDev\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pierr\source\repos\ProyectoTecnoDev\TecnoDev\bin\Debug\EntityFramework.xml
+C:\Users\Pierr\source\repos\ProyectoTecnoDev\TecnoDev\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pierr\source\repos\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.csproj.AssemblyReference.cache
+C:\Users\Pierr\source\repos\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.Form1.resources
+C:\Users\Pierr\source\repos\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.Properties.Resources.resources
+C:\Users\Pierr\source\repos\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.csproj.GenerateResource.cache
+C:\Users\Pierr\source\repos\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.csproj.CoreCompileInputs.cache
+C:\Users\Pierr\source\repos\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.csproj.Up2Date
+C:\Users\Pierr\source\repos\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.exe
+C:\Users\Pierr\source\repos\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.pdb
+C:\Users\Pierr\source\repos\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.View.FormularioSuperUsuario.resources
+C:\Users\Pierr\source\repos\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.View.FormularioUsuario.resources
+C:\Users\Pierr\source\repos\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.View.LoginRegistro.resources
+C:\Users\Pierr\source\repos\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.View.LoginSistema.resources
+C:\Users\Pierr\source\repos\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.View.FormularioRegistroUsuarios.resources
+C:\Users\Panch\Downloads\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\bin\Debug\TecnoDev.exe.config
+C:\Users\Panch\Downloads\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\bin\Debug\TecnoDev.exe
+C:\Users\Panch\Downloads\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\bin\Debug\TecnoDev.pdb
+C:\Users\Panch\Downloads\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\bin\Debug\EntityFramework.dll
+C:\Users\Panch\Downloads\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Panch\Downloads\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\bin\Debug\EntityFramework.xml
+C:\Users\Panch\Downloads\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Panch\Downloads\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.csproj.AssemblyReference.cache
+C:\Users\Panch\Downloads\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.Form1.resources
+C:\Users\Panch\Downloads\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.Properties.Resources.resources
+C:\Users\Panch\Downloads\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.View.FormularioSuperUsuario.resources
+C:\Users\Panch\Downloads\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.View.FormularioUsuario.resources
+C:\Users\Panch\Downloads\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.View.LoginRegistro.resources
+C:\Users\Panch\Downloads\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.View.LoginSistema.resources
+C:\Users\Panch\Downloads\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.View.FormularioRegistroUsuarios.resources
+C:\Users\Panch\Downloads\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.csproj.GenerateResource.cache
+C:\Users\Panch\Downloads\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.csproj.CoreCompileInputs.cache
+C:\Users\Panch\Downloads\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.csproj.Up2Date
+C:\Users\Panch\Downloads\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.exe
+C:\Users\Panch\Downloads\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.pdb
+C:\Users\Panch\Downloads\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\bin\Debug\TecnoDev.exe.config
+C:\Users\Panch\Downloads\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\bin\Debug\TecnoDev.exe
+C:\Users\Panch\Downloads\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\bin\Debug\TecnoDev.pdb
+C:\Users\Panch\Downloads\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\bin\Debug\EntityFramework.dll
+C:\Users\Panch\Downloads\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Panch\Downloads\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\bin\Debug\EntityFramework.xml
+C:\Users\Panch\Downloads\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Panch\Downloads\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.csproj.AssemblyReference.cache
+C:\Users\Panch\Downloads\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.Form1.resources
+C:\Users\Panch\Downloads\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.Properties.Resources.resources
+C:\Users\Panch\Downloads\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.View.FormularioSuperUsuario.resources
+C:\Users\Panch\Downloads\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.View.FormularioUsuario.resources
+C:\Users\Panch\Downloads\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.View.LoginRegistro.resources
+C:\Users\Panch\Downloads\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.View.LoginSistema.resources
+C:\Users\Panch\Downloads\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.View.FormularioRegistroUsuarios.resources
+C:\Users\Panch\Downloads\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.csproj.GenerateResource.cache
+C:\Users\Panch\Downloads\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.csproj.CoreCompileInputs.cache
+C:\Users\Panch\Downloads\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.csproj.Up2Date
+C:\Users\Panch\Downloads\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.exe
+C:\Users\Panch\Downloads\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.pdb
+C:\Users\javie\Downloads\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\bin\Debug\TecnoDev.exe.config
+C:\Users\javie\Downloads\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\bin\Debug\TecnoDev.exe
+C:\Users\javie\Downloads\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\bin\Debug\TecnoDev.pdb
+C:\Users\javie\Downloads\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\bin\Debug\EntityFramework.dll
+C:\Users\javie\Downloads\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\javie\Downloads\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\bin\Debug\EntityFramework.xml
+C:\Users\javie\Downloads\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\javie\Downloads\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.csproj.AssemblyReference.cache
+C:\Users\javie\Downloads\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.Form1.resources
+C:\Users\javie\Downloads\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.Properties.Resources.resources
+C:\Users\javie\Downloads\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.View.FormularioSuperUsuario.resources
+C:\Users\javie\Downloads\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.View.FormularioUsuario.resources
+C:\Users\javie\Downloads\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.View.LoginRegistro.resources
+C:\Users\javie\Downloads\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.View.LoginSistema.resources
+C:\Users\javie\Downloads\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.View.FormularioRegistroUsuarios.resources
+C:\Users\javie\Downloads\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.csproj.GenerateResource.cache
+C:\Users\javie\Downloads\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.csproj.CoreCompileInputs.cache
+C:\Users\javie\Downloads\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.csproj.Up2Date
+C:\Users\javie\Downloads\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.exe
+C:\Users\javie\Downloads\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.pdb
+C:\Users\javie\OneDrive - Corporación Santo Tomas\Desktop\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\bin\Debug\TecnoDev.exe.config
+C:\Users\javie\OneDrive - Corporación Santo Tomas\Desktop\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\bin\Debug\TecnoDev.exe
+C:\Users\javie\OneDrive - Corporación Santo Tomas\Desktop\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\bin\Debug\TecnoDev.pdb
+C:\Users\javie\OneDrive - Corporación Santo Tomas\Desktop\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\bin\Debug\EntityFramework.dll
+C:\Users\javie\OneDrive - Corporación Santo Tomas\Desktop\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\javie\OneDrive - Corporación Santo Tomas\Desktop\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\bin\Debug\EntityFramework.xml
+C:\Users\javie\OneDrive - Corporación Santo Tomas\Desktop\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\javie\OneDrive - Corporación Santo Tomas\Desktop\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.csproj.AssemblyReference.cache
+C:\Users\javie\OneDrive - Corporación Santo Tomas\Desktop\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.Form1.resources
+C:\Users\javie\OneDrive - Corporación Santo Tomas\Desktop\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.Properties.Resources.resources
+C:\Users\javie\OneDrive - Corporación Santo Tomas\Desktop\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.View.FormularioSuperUsuario.resources
+C:\Users\javie\OneDrive - Corporación Santo Tomas\Desktop\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.View.FormularioUsuario.resources
+C:\Users\javie\OneDrive - Corporación Santo Tomas\Desktop\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.View.LoginRegistro.resources
+C:\Users\javie\OneDrive - Corporación Santo Tomas\Desktop\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.View.LoginSistema.resources
+C:\Users\javie\OneDrive - Corporación Santo Tomas\Desktop\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.View.FormularioRegistroUsuarios.resources
+C:\Users\javie\OneDrive - Corporación Santo Tomas\Desktop\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.csproj.GenerateResource.cache
+C:\Users\javie\OneDrive - Corporación Santo Tomas\Desktop\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.csproj.CoreCompileInputs.cache
+C:\Users\javie\OneDrive - Corporación Santo Tomas\Desktop\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.csproj.Up2Date
+C:\Users\javie\OneDrive - Corporación Santo Tomas\Desktop\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.exe
+C:\Users\javie\OneDrive - Corporación Santo Tomas\Desktop\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(2)\ProyectoTecnoDev Final(1)\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.pdb
+C:\Users\Pierr\Escritorio\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.csproj.AssemblyReference.cache
+C:\Users\Pierr\Escritorio\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.Form1.resources
+C:\Users\Pierr\Escritorio\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.Properties.Resources.resources
+C:\Users\Pierr\Escritorio\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.View.FormularioSuperUsuario.resources
+C:\Users\Pierr\Escritorio\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.View.FormularioUsuario.resources
+C:\Users\Pierr\Escritorio\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.View.LoginRegistro.resources
+C:\Users\Pierr\Escritorio\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.View.LoginSistema.resources
+C:\Users\Pierr\Escritorio\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.View.FormularioRegistroUsuarios.resources
+C:\Users\Pierr\Escritorio\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.csproj.GenerateResource.cache
+C:\Users\Pierr\Escritorio\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.csproj.CoreCompileInputs.cache
+C:\Users\Pierr\Escritorio\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.exe
+C:\Users\Pierr\Escritorio\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.pdb
+C:\Users\Pierr\Escritorio\ProyectoTecnoDev\TecnoDev\bin\Debug\TecnoDev.exe.config
+C:\Users\Pierr\Escritorio\ProyectoTecnoDev\TecnoDev\bin\Debug\TecnoDev.exe
+C:\Users\Pierr\Escritorio\ProyectoTecnoDev\TecnoDev\bin\Debug\TecnoDev.pdb
+C:\Users\Pierr\Escritorio\ProyectoTecnoDev\TecnoDev\bin\Debug\EntityFramework.dll
+C:\Users\Pierr\Escritorio\ProyectoTecnoDev\TecnoDev\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pierr\Escritorio\ProyectoTecnoDev\TecnoDev\bin\Debug\EntityFramework.xml
+C:\Users\Pierr\Escritorio\ProyectoTecnoDev\TecnoDev\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pierr\Escritorio\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.csproj.Up2Date
+C:\Users\Santo Tomas\Desktop\ProyectoTecnoDev\TecnoDev\bin\Debug\TecnoDev.exe.config
+C:\Users\Santo Tomas\Desktop\ProyectoTecnoDev\TecnoDev\bin\Debug\TecnoDev.exe
+C:\Users\Santo Tomas\Desktop\ProyectoTecnoDev\TecnoDev\bin\Debug\TecnoDev.pdb
+C:\Users\Santo Tomas\Desktop\ProyectoTecnoDev\TecnoDev\bin\Debug\EntityFramework.dll
+C:\Users\Santo Tomas\Desktop\ProyectoTecnoDev\TecnoDev\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Santo Tomas\Desktop\ProyectoTecnoDev\TecnoDev\bin\Debug\EntityFramework.xml
+C:\Users\Santo Tomas\Desktop\ProyectoTecnoDev\TecnoDev\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Santo Tomas\Desktop\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.csproj.AssemblyReference.cache
+C:\Users\Santo Tomas\Desktop\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.csproj.SuggestedBindingRedirects.cache
+C:\Users\Santo Tomas\Desktop\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.Form1.resources
+C:\Users\Santo Tomas\Desktop\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.Properties.Resources.resources
+C:\Users\Santo Tomas\Desktop\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.View.FormularioSuperUsuario.resources
+C:\Users\Santo Tomas\Desktop\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.View.FormularioUsuario.resources
+C:\Users\Santo Tomas\Desktop\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.View.LoginRegistro.resources
+C:\Users\Santo Tomas\Desktop\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.View.LoginSistema.resources
+C:\Users\Santo Tomas\Desktop\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.View.FormularioRegistroUsuarios.resources
+C:\Users\Santo Tomas\Desktop\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.csproj.GenerateResource.cache
+C:\Users\Santo Tomas\Desktop\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.csproj.CoreCompileInputs.cache
+C:\Users\Santo Tomas\Desktop\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.csproj.CopyComplete
+C:\Users\Santo Tomas\Desktop\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.exe
+C:\Users\Santo Tomas\Desktop\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.pdb
+C:\Users\yanko\Downloads\ProyectoTecnoDev\TecnoDev\bin\Debug\TecnoDev.exe.config
+C:\Users\yanko\Downloads\ProyectoTecnoDev\TecnoDev\bin\Debug\TecnoDev.exe
+C:\Users\yanko\Downloads\ProyectoTecnoDev\TecnoDev\bin\Debug\TecnoDev.pdb
+C:\Users\yanko\Downloads\ProyectoTecnoDev\TecnoDev\bin\Debug\EntityFramework.dll
+C:\Users\yanko\Downloads\ProyectoTecnoDev\TecnoDev\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yanko\Downloads\ProyectoTecnoDev\TecnoDev\bin\Debug\EntityFramework.xml
+C:\Users\yanko\Downloads\ProyectoTecnoDev\TecnoDev\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yanko\Downloads\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.csproj.AssemblyReference.cache
+C:\Users\yanko\Downloads\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.Form1.resources
+C:\Users\yanko\Downloads\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.Properties.Resources.resources
+C:\Users\yanko\Downloads\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.View.FormularioSuperUsuario.resources
+C:\Users\yanko\Downloads\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.View.FormularioUsuario.resources
+C:\Users\yanko\Downloads\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.View.LoginRegistro.resources
+C:\Users\yanko\Downloads\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.View.LoginSistema.resources
+C:\Users\yanko\Downloads\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.View.FormularioRegistroUsuarios.resources
+C:\Users\yanko\Downloads\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.csproj.GenerateResource.cache
+C:\Users\yanko\Downloads\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.csproj.CoreCompileInputs.cache
+C:\Users\yanko\Downloads\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.csproj.Up2Date
+C:\Users\yanko\Downloads\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.exe
+C:\Users\yanko\Downloads\ProyectoTecnoDev\TecnoDev\obj\Debug\TecnoDev.pdb

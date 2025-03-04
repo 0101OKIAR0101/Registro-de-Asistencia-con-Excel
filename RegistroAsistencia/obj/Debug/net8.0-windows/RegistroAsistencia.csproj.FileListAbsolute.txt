@@ -1,0 +1,12 @@
+C:\Users\yanko\Downloads\ProyectoTecnoDev\RegistroAsistencia\obj\Debug\net8.0-windows\RegistroAsistencia.csproj.AssemblyReference.cache
+C:\Users\yanko\Downloads\ProyectoTecnoDev\RegistroAsistencia\obj\Debug\net8.0-windows\RegistroAsistencia.Form1.resources
+C:\Users\yanko\Downloads\ProyectoTecnoDev\RegistroAsistencia\obj\Debug\net8.0-windows\RegistroAsistencia.View.FormularioRegistroUsuarios.resources
+C:\Users\yanko\Downloads\ProyectoTecnoDev\RegistroAsistencia\obj\Debug\net8.0-windows\RegistroAsistencia.View.FormularioSuperUsuario.resources
+C:\Users\yanko\Downloads\ProyectoTecnoDev\RegistroAsistencia\obj\Debug\net8.0-windows\RegistroAsistencia.View.FormularioUsuario.resources
+C:\Users\yanko\Downloads\ProyectoTecnoDev\RegistroAsistencia\obj\Debug\net8.0-windows\RegistroAsistencia.View.LoginRegistro.resources
+C:\Users\yanko\Downloads\ProyectoTecnoDev\RegistroAsistencia\obj\Debug\net8.0-windows\RegistroAsistencia.View.LoginSistema.resources
+C:\Users\yanko\Downloads\ProyectoTecnoDev\RegistroAsistencia\obj\Debug\net8.0-windows\RegistroAsistencia.csproj.GenerateResource.cache
+C:\Users\yanko\Downloads\ProyectoTecnoDev\RegistroAsistencia\obj\Debug\net8.0-windows\RegistroAsistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanko\Downloads\ProyectoTecnoDev\RegistroAsistencia\obj\Debug\net8.0-windows\RegistroAsistencia.AssemblyInfoInputs.cache
+C:\Users\yanko\Downloads\ProyectoTecnoDev\RegistroAsistencia\obj\Debug\net8.0-windows\RegistroAsistencia.AssemblyInfo.cs
+C:\Users\yanko\Downloads\ProyectoTecnoDev\RegistroAsistencia\obj\Debug\net8.0-windows\RegistroAsistencia.csproj.CoreCompileInputs.cache

@@ -1,0 +1,48 @@
+C:\Users\yanko\Downloads\ControlAsistencia\TecnoDev\obj\Debug\ControlAsistencia.csproj.AssemblyReference.cache
+C:\Users\yanko\Downloads\ControlAsistencia\TecnoDev\obj\Debug\TecnoDev.Form1.resources
+C:\Users\yanko\Downloads\ControlAsistencia\TecnoDev\obj\Debug\TecnoDev.Properties.Resources.resources
+C:\Users\yanko\Downloads\ControlAsistencia\TecnoDev\obj\Debug\TecnoDev.View.FormularioSuperUsuario.resources
+C:\Users\yanko\Downloads\ControlAsistencia\TecnoDev\obj\Debug\TecnoDev.View.FormularioUsuario.resources
+C:\Users\yanko\Downloads\ControlAsistencia\TecnoDev\obj\Debug\TecnoDev.View.LoginRegistro.resources
+C:\Users\yanko\Downloads\ControlAsistencia\TecnoDev\obj\Debug\TecnoDev.View.LoginSistema.resources
+C:\Users\yanko\Downloads\ControlAsistencia\TecnoDev\obj\Debug\TecnoDev.View.FormularioRegistroUsuarios.resources
+C:\Users\yanko\Downloads\ControlAsistencia\TecnoDev\obj\Debug\ControlAsistencia.csproj.GenerateResource.cache
+C:\Users\yanko\Downloads\ControlAsistencia\TecnoDev\obj\Debug\ControlAsistencia.csproj.CoreCompileInputs.cache
+C:\Users\yanko\Downloads\ControlAsistencia\TecnoDev\obj\Debug\TecnoDev.exe
+C:\Users\yanko\Downloads\ControlAsistencia\TecnoDev\obj\Debug\TecnoDev.pdb
+C:\Users\yanko\Downloads\ControlAsistencia\TecnoDev\bin\Debug\TecnoDev.exe.config
+C:\Users\yanko\Downloads\ControlAsistencia\TecnoDev\bin\Debug\TecnoDev.exe
+C:\Users\yanko\Downloads\ControlAsistencia\TecnoDev\bin\Debug\TecnoDev.pdb
+C:\Users\yanko\Downloads\ControlAsistencia\TecnoDev\bin\Debug\EntityFramework.dll
+C:\Users\yanko\Downloads\ControlAsistencia\TecnoDev\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yanko\Downloads\ControlAsistencia\TecnoDev\bin\Debug\EntityFramework.xml
+C:\Users\yanko\Downloads\ControlAsistencia\TecnoDev\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yanko\Downloads\ControlAsistencia\TecnoDev\obj\Debug\ControlA.412EEE3D.Up2Date
+C:\Users\yanko\Downloads\ControlAsistencia\TecnoDev\obj\Debug\ControlAsistencia.csproj.ResolveComReference.cache
+C:\Users\yanko\Downloads\ControlAsistencia\TecnoDev\bin\Debug\ExcelDataReader.dll
+C:\Users\yanko\Downloads\ControlAsistencia\TecnoDev\bin\Debug\ExcelDataReader.pdb
+C:\Users\yanko\Downloads\ControlAsistencia\TecnoDev\bin\Debug\ExcelDataReader.xml
+C:\Users\El ava de oro\Desktop\registro asistencia\ControlAsistencia\TecnoDev\bin\Debug\TecnoDev.exe.config
+C:\Users\El ava de oro\Desktop\registro asistencia\ControlAsistencia\TecnoDev\bin\Debug\TecnoDev.exe
+C:\Users\El ava de oro\Desktop\registro asistencia\ControlAsistencia\TecnoDev\bin\Debug\TecnoDev.pdb
+C:\Users\El ava de oro\Desktop\registro asistencia\ControlAsistencia\TecnoDev\bin\Debug\EntityFramework.dll
+C:\Users\El ava de oro\Desktop\registro asistencia\ControlAsistencia\TecnoDev\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\El ava de oro\Desktop\registro asistencia\ControlAsistencia\TecnoDev\bin\Debug\ExcelDataReader.dll
+C:\Users\El ava de oro\Desktop\registro asistencia\ControlAsistencia\TecnoDev\bin\Debug\EntityFramework.xml
+C:\Users\El ava de oro\Desktop\registro asistencia\ControlAsistencia\TecnoDev\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\El ava de oro\Desktop\registro asistencia\ControlAsistencia\TecnoDev\bin\Debug\ExcelDataReader.pdb
+C:\Users\El ava de oro\Desktop\registro asistencia\ControlAsistencia\TecnoDev\bin\Debug\ExcelDataReader.xml
+C:\Users\El ava de oro\Desktop\registro asistencia\ControlAsistencia\TecnoDev\obj\Debug\ControlAsistencia.csproj.AssemblyReference.cache
+C:\Users\El ava de oro\Desktop\registro asistencia\ControlAsistencia\TecnoDev\obj\Debug\ControlAsistencia.csproj.ResolveComReference.cache
+C:\Users\El ava de oro\Desktop\registro asistencia\ControlAsistencia\TecnoDev\obj\Debug\TecnoDev.Form1.resources
+C:\Users\El ava de oro\Desktop\registro asistencia\ControlAsistencia\TecnoDev\obj\Debug\TecnoDev.Properties.Resources.resources
+C:\Users\El ava de oro\Desktop\registro asistencia\ControlAsistencia\TecnoDev\obj\Debug\TecnoDev.View.FormularioSuperUsuario.resources
+C:\Users\El ava de oro\Desktop\registro asistencia\ControlAsistencia\TecnoDev\obj\Debug\TecnoDev.View.FormularioUsuario.resources
+C:\Users\El ava de oro\Desktop\registro asistencia\ControlAsistencia\TecnoDev\obj\Debug\TecnoDev.View.LoginRegistro.resources
+C:\Users\El ava de oro\Desktop\registro asistencia\ControlAsistencia\TecnoDev\obj\Debug\TecnoDev.View.LoginSistema.resources
+C:\Users\El ava de oro\Desktop\registro asistencia\ControlAsistencia\TecnoDev\obj\Debug\TecnoDev.View.FormularioRegistroUsuarios.resources
+C:\Users\El ava de oro\Desktop\registro asistencia\ControlAsistencia\TecnoDev\obj\Debug\ControlAsistencia.csproj.GenerateResource.cache
+C:\Users\El ava de oro\Desktop\registro asistencia\ControlAsistencia\TecnoDev\obj\Debug\ControlAsistencia.csproj.CoreCompileInputs.cache
+C:\Users\El ava de oro\Desktop\registro asistencia\ControlAsistencia\TecnoDev\obj\Debug\ControlA.412EEE3D.Up2Date
+C:\Users\El ava de oro\Desktop\registro asistencia\ControlAsistencia\TecnoDev\obj\Debug\TecnoDev.exe
+C:\Users\El ava de oro\Desktop\registro asistencia\ControlAsistencia\TecnoDev\obj\Debug\TecnoDev.pdb
