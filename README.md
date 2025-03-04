@@ -1,4 +1,5 @@
 🙂🙂🙂 Registro de Asistencia con Excel 🙂🙂🙂
+
 Este proyecto fue realizado como parte de un trabajo en donde se debía crear una interfaz que permitiera a un usuario común registrarse de manera manual y ver su propia información, mientras que un superusuario podría gestionar los datos y realizar operaciones sobre las asistencias. Además, el superusuario tiene la capacidad de exportar todos los datos a una planilla Excel. 📊💻
 
 📌 Lenguajes utilizados: C#, SQL Server 🛠
